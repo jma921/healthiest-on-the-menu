@@ -1,0 +1,8 @@
+.restraunt-info-link {
+  color: #2ecc71;
+  text-decoration: none;
+}
+
+.restraunt-info-link:hover {
+  color: #26af60;
+}
