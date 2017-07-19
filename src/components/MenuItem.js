@@ -1,7 +1,6 @@
 import React from 'react';
 
 const MenuItem = ({ menuItem }) => {
-  console.log(menuItem);
   const {
     calories,
     calories_from_fat,
